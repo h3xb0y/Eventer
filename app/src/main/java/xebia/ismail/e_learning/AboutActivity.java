@@ -68,16 +68,7 @@ public class AboutActivity extends AppCompatActivity {
             String packageName = getActivity().getPackageName();
             String translator = getResources().getString(R.string.translator);
 
-            View.OnClickListener viewclick = new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-//                    startActivity(new Intent(getActivity(), WelcomeActivity.class));
-                    i++;
-                    if (i>50) startActivity(new Intent(getActivity(), KillYourself.class));
-
-                }
-            };
-            vkontakte.setOnClickListener(viewclick);
+           
             View.OnClickListener viewclick2 = new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
