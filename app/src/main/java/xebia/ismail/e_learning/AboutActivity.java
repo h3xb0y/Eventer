@@ -68,7 +68,7 @@ public class AboutActivity extends AppCompatActivity {
             String packageName = getActivity().getPackageName();
             String translator = getResources().getString(R.string.translator);
 
-           
+
             View.OnClickListener viewclick2 = new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {

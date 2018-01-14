@@ -88,7 +88,6 @@ public class VideoActivity extends AppCompatActivity {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-//           bar = ProgressDialog.show(VideoActivity.this, "Загрузка...", "Инициализация данных");
             bar.setVisibility(View.VISIBLE);
 
         }
@@ -124,7 +123,7 @@ public class VideoActivity extends AppCompatActivity {
 
 
             try {
-                //loading markers info from db
+                //loading markers info from json
                 JSONObject objectp = new JSONObject(s);
                 JSONArray jArrPoints = objectp.getJSONArray("points");
 
@@ -145,7 +144,6 @@ public class VideoActivity extends AppCompatActivity {
                 e.printStackTrace();
             }
 
-//           adapter.notifyDataSetChanged();
         }
 
     }

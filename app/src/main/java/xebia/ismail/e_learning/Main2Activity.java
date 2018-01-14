@@ -70,60 +70,10 @@ public class Main2Activity extends AppCompatActivity {
 
             mPager.setAdapter(new TabsAdapter(getChildFragmentManager()));
             mTabLayout.setupWithViewPager(mPager);
-
-            setHasOptionsMenu(true);
-
             mImageView = (ImageView) v.findViewById(R.id.imagee);
-            switch (num) {
-                case 0:   mImageView.setImageResource(R.drawable.a0);
-                    break;
-                case 1:  mImageView.setImageResource(R.drawable.a1);
-                    break;
-                case 2:  mImageView.setImageResource(R.drawable.a2);
-                    break;
-                case 3:  mImageView.setImageResource(R.drawable.a3);
-                    break;
-                case 4:  mImageView.setImageResource(R.drawable.a4);
-                    break;
-                case 5:  mImageView.setImageResource(R.drawable.a5);
-                    break;
-                case 6:  mImageView.setImageResource(R.drawable.a6);
-                    break;
-                case 7:  mImageView.setImageResource(R.drawable.a7);
-                    break;
-                case 8:  mImageView.setImageResource(R.drawable.a8);
-                    break;
-                case 9: mImageView.setImageResource(R.drawable.a9);
-                    break;
-                case 10:  mImageView.setImageResource(R.drawable.a10);
-                    break;
-                case 11:         mImageView.setImageResource(R.drawable.a11);
-                    break;
-                case 12:         mImageView.setImageResource(R.drawable.a12);
-                    break;
-                case 13:         mImageView.setImageResource(R.drawable.a13);
-                    break;
-                case 14:         mImageView.setImageResource(R.drawable.a14);
-                    break;
-                case 15:         mImageView.setImageResource(R.drawable.a15);
-                    break;
-                case 16:         mImageView.setImageResource(R.drawable.a16);
-                    break;
-                case 17:         mImageView.setImageResource(R.drawable.a17);
-                    break;
-                case 18:         mImageView.setImageResource(R.drawable.a18);
-                    break;
-                case 19:         mImageView.setImageResource(R.drawable.a19);
-                    break;
-                case 20:         mImageView.setImageResource(R.drawable.a20);
-                    break;
-                case 21:         mImageView.setImageResource(R.drawable.a21);
-                    break;
-                case 22:         mImageView.setImageResource(R.drawable.a22);
-                    break;
-                case 23:         mImageView.setImageResource(R.drawable.a23);
-                    break;}
-
+            setHasOptionsMenu(true);
+            int picture = SetPicture.SetPicture(num);
+            mImageView.setImageResource(picture);
             return v;
         }
 

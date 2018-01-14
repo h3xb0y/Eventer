@@ -25,6 +25,7 @@ import java.util.List;
 
 import xebia.ismail.e_learning.FullInfoActivity;
 import xebia.ismail.e_learning.R;
+import xebia.ismail.e_learning.SetPicture;
 import xebia.ismail.e_learning.favorites.DBHelper;
 
 /**
@@ -86,56 +87,9 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
         final String Descr = nature.getDescr();
         final String Time = nature.getTime();
         final String Price = nature.getPrice();
+        int picture = SetPicture.SetPicture(nature.getId());
+        viewHolder.imgThumbnail.setImageResource(picture);
         final int img = nature.getId();
-        switch (img) {
-            case 0:  viewHolder.imgThumbnail.setImageResource(R.drawable.a0);
-                break;
-            case 1:          viewHolder.imgThumbnail.setImageResource(R.drawable.a1);
-                break;
-            case 2:          viewHolder.imgThumbnail.setImageResource(R.drawable.a2);
-                break;
-            case 3:          viewHolder.imgThumbnail.setImageResource(R.drawable.a3);
-                break;
-            case 4:          viewHolder.imgThumbnail.setImageResource(R.drawable.a4);
-                break;
-            case 5:          viewHolder.imgThumbnail.setImageResource(R.drawable.a5);
-                break;
-            case 6:          viewHolder.imgThumbnail.setImageResource(R.drawable.a6);
-                break;
-            case 7:          viewHolder.imgThumbnail.setImageResource(R.drawable.a7);
-                break;
-            case 8:          viewHolder.imgThumbnail.setImageResource(R.drawable.a8);
-                break;
-            case 9:         viewHolder.imgThumbnail.setImageResource(R.drawable.a9);
-                break;
-            case 10:         viewHolder.imgThumbnail.setImageResource(R.drawable.a10);
-                break;
-            case 11:         viewHolder.imgThumbnail.setImageResource(R.drawable.a11);
-                break;
-            case 12:         viewHolder.imgThumbnail.setImageResource(R.drawable.a12);
-                break;
-            case 13:         viewHolder.imgThumbnail.setImageResource(R.drawable.a13);
-                break;
-            case 14:         viewHolder.imgThumbnail.setImageResource(R.drawable.a14);
-                break;
-            case 15:         viewHolder.imgThumbnail.setImageResource(R.drawable.a15);
-                break;
-            case 16:         viewHolder.imgThumbnail.setImageResource(R.drawable.a16);
-                break;
-            case 17:         viewHolder.imgThumbnail.setImageResource(R.drawable.a17);
-                break;
-            case 18:         viewHolder.imgThumbnail.setImageResource(R.drawable.a18);
-                break;
-            case 19:         viewHolder.imgThumbnail.setImageResource(R.drawable.a19);
-                break;
-            case 20:         viewHolder.imgThumbnail.setImageResource(R.drawable.a20);
-                break;
-            case 21:         viewHolder.imgThumbnail.setImageResource(R.drawable.a21);
-                break;
-            case 22:         viewHolder.imgThumbnail.setImageResource(R.drawable.a22);
-                break;
-            case 23:         viewHolder.imgThumbnail.setImageResource(R.drawable.a13);
-                break;}
         viewHolder.itemView.setOnClickListener (new View.OnClickListener() {
             @Override
             public void onClick(View v) {

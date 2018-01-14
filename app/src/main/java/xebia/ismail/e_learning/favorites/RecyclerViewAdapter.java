@@ -25,10 +25,7 @@ import java.util.Locale;
 
 import xebia.ismail.e_learning.FullInfoActivity;
 import xebia.ismail.e_learning.R;
-
-/**
- * Created by X on 12/28/2016.
- */
+import xebia.ismail.e_learning.SetPicture;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.RecyclerViewHolder> {
     ArrayList<ContactModel> arrayList = new ArrayList<ContactModel>();
@@ -83,55 +80,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                 mContext.startActivity(intent);
             }
         });
-        switch (num) {
-            case 0:  holder.txtImage.setImageResource(R.drawable.a0);
-                break;
-            case 1:          holder.txtImage.setImageResource(R.drawable.a1);
-                break;
-            case 2:          holder.txtImage.setImageResource(R.drawable.a2);
-                break;
-            case 3:          holder.txtImage.setImageResource(R.drawable.a3);
-                break;
-            case 4:          holder.txtImage.setImageResource(R.drawable.a4);
-                break;
-            case 5:          holder.txtImage.setImageResource(R.drawable.a5);
-                break;
-            case 6:          holder.txtImage.setImageResource(R.drawable.a6);
-                break;
-            case 7:          holder.txtImage.setImageResource(R.drawable.a7);
-                break;
-            case 8:          holder.txtImage.setImageResource(R.drawable.a8);
-                break;
-            case 9:         holder.txtImage.setImageResource(R.drawable.a9);
-                break;
-            case 10:         holder.txtImage.setImageResource(R.drawable.a10);
-                break;
-            case 11:         holder.txtImage.setImageResource(R.drawable.a11);
-                break;
-            case 12:         holder.txtImage.setImageResource(R.drawable.a12);
-                break;
-            case 13:         holder.txtImage.setImageResource(R.drawable.a13);
-                break;
-            case 14:         holder.txtImage.setImageResource(R.drawable.a14);
-                break;
-            case 15:         holder.txtImage.setImageResource(R.drawable.a15);
-                break;
-            case 16:         holder.txtImage.setImageResource(R.drawable.a16);
-                break;
-            case 17:         holder.txtImage.setImageResource(R.drawable.a17);
-                break;
-            case 18:         holder.txtImage.setImageResource(R.drawable.a18);
-                break;
-            case 19:         holder.txtImage.setImageResource(R.drawable.a19);
-                break;
-            case 20:         holder.txtImage.setImageResource(R.drawable.a20);
-                break;
-            case 21:         holder.txtImage.setImageResource(R.drawable.a21);
-                break;
-            case 22:         holder.txtImage.setImageResource(R.drawable.a22);
-                break;
-            case 23:         holder.txtImage.setImageResource(R.drawable.a23);
-                break;}
+
+        int picture = SetPicture.SetPicture(num);
+        holder.txtImage.setImageResource(picture);
+
 
         holder.another.setOnClickListener(new View.OnClickListener() {
             @Override
