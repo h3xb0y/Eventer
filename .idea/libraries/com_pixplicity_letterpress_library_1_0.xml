@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.pixplicity.letterpress:library-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/6e33281916d2e1e357ce9494cc31e640b54fb8b2/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/6e33281916d2e1e357ce9494cc31e640b54fb8b2/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pixplicity.letterpress/library/1.0/2c6a171432505e9a535f7debaa1cb191b057b92a/library-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

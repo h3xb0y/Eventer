@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mcxiaoke.popupmenu:library-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/74d33bec6f90ba70fb564351182a625b47eb3a4f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/74d33bec6f90ba70fb564351182a625b47eb3a4f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.popupmenu/library/1.0.3/85df91a0fabc0858fd2d50ef987479c6732d030a/library-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
