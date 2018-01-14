@@ -10,9 +10,6 @@ import android.os.Build;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by X on 12/28/2016.
- */
 
 public class DBHelper extends SQLiteOpenHelper {
     private static String DB_NAME = "contact_db";

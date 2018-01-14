@@ -28,9 +28,6 @@ import xebia.ismail.e_learning.R;
 
 
 
-/**
- * Created by Admin on 5/25/2016.
- */
 public class TabGeometry extends Fragment implements OnMapReadyCallback  {
 
     public static ArrayList<Points> itemlist;

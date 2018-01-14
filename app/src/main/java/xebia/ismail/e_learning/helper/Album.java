@@ -1,8 +1,6 @@
 package xebia.ismail.e_learning.helper;
 
-/**
- * Created by Rajat Gupta on 18/05/16.
- */
+
 public class Album {
     private String name;
     private String numOfSongs;

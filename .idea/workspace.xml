@@ -11,6 +11,21 @@
   <component name="ChangeListManager">
     <list default="true" id="e9c0bf48-9a39-476e-b218-74bc38e5d4b1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AppCompatPreferenceActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AppCompatPreferenceActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/CardAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/CardAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/RecyclerItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/RecyclerItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java" />
     </list>
     <ignored path="UX-UI-Navigation-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,40 +57,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VolumeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java">
+      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="e#1260#1261#0" expanded="false" />
-                <element signature="e#1293#1294#0" expanded="false" />
-                <element signature="e#1344#1345#0" expanded="false" />
-                <element signature="e#1376#1377#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AboutActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AboutActivity.java">
+      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Points.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabEvents.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabGeometry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#828#973#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhereToGo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecyclerViewAdapter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/RecyclerViewAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2074">
+              <caret line="158" column="42" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1703,12 +1782,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/RecyclerViewAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_helper.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesDataViewHolder.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main2.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
@@ -1729,31 +1802,37 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tile.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide1.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_favorites.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/FullInfoActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/progress.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/Main2Activity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/VideoActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/KillYourself.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/ViewPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/WelcomeActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Favorites.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Helper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabInfo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AboutActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AppCompatPreferenceActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/RecyclerItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/CardAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java" />
       </list>
     </option>
   </component>
@@ -1822,6 +1901,98 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="e_learning" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventer-clone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_learning" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventer-clone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_learning" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FragmentHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventer-clone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_learning" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventer-clone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_learning" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="favorites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1963,7 +2134,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515961884176" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515962106013" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2011,7 +2182,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515961884176" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515962106013" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2194,7 +2365,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515961884177" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515962106016" />
       </method>
     </configuration>
     <list size="1">
@@ -2303,7 +2474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515961869402</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2k18 update">
+      <created>1515961906964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1515961906964</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2321,7 +2499,7 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279743" sideWeight="0.49426934" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.49426934" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2512,13 +2690,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/progress.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AppCompatPreferenceActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -2526,13 +2697,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="44" lean-forward="false" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/FullInfoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2545,202 +2709,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="102">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/Main2Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1836">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/CardAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/Itemlist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/RecyclerItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/ViewPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/WelcomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/VideoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesDataViewHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/SquareImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/FullInfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AppCompatPreferenceActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Favorites.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AboutActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2473">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/RecyclerViewAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="158" column="42" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="731">
+          <caret line="80" column="51" lean-forward="false" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
           <folding>
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1293#1294#0" expanded="false" />
-            <element signature="e#1344#1345#0" expanded="false" />
-            <element signature="e#1376#1377#0" expanded="false" />
+            <element signature="e#828#973#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2753,14 +2758,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/AboutActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/VolumeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+        <state relative-caret-position="-382">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#828#973#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/aadapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/Itemlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/RecyclerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/recycler/ViewPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/CardAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/news/NatureItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/IntroVideo/WelcomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <folding>
+            <element signature="e#1867#2193#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/GridWithTilesDataViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/FragmentHelper/SquareImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/helper/AlbumsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabGeometry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/TabInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/fragment/WhereToGo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/ContactModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xebia/ismail/e_learning/favorites/RecyclerViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="158" column="42" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

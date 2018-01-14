@@ -1,8 +1,5 @@
 package xebia.ismail.e_learning.recycler;
 
-/**
- * Created by NgocTri on 11/5/2016.
- */
 
 public class RecyclerItem {
 

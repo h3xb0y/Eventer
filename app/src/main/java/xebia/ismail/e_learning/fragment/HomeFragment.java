@@ -14,9 +14,7 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.helper.FragmentHelper.GridWithTilesAdapter;
 import xebia.ismail.e_learning.helper.FragmentHelper.GridWithTilesData;
 
-/**
- * Created by Admin on 3/13/2017.
- */
+
 public class HomeFragment extends Fragment {
 
 

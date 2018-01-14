@@ -32,9 +32,6 @@ import okhttp3.Response;
 import xebia.ismail.e_learning.news.CardAdapter;
 import xebia.ismail.e_learning.news.NatureItem;
 
-/**
- * Created by Admin on 5/25/2016.
- */
 public class WhereToGo extends Fragment {
 
     private RecyclerView recyclerView;

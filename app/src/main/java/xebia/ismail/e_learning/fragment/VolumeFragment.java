@@ -13,10 +13,6 @@ import android.view.ViewGroup;
 
 import xebia.ismail.e_learning.R;
 
-/**
- * Created by Admin on 3/15/2017.
- */
-
 public class VolumeFragment extends Fragment{
 
     private static ViewPager mPager;

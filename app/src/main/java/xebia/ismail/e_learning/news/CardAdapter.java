@@ -28,9 +28,7 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.SetPicture;
 import xebia.ismail.e_learning.favorites.DBHelper;
 
-/**
- * Created by Edwin on 18/01/2015.
- */
+
 
 public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
 

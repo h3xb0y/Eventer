@@ -16,9 +16,7 @@ import java.util.List;
 
 import xebia.ismail.e_learning.R;
 
-/**
- * Created by Rajat Gupta on 18/05/16.
- */
+
 public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHolder> {
 
     private Context mContext;

@@ -1,8 +1,6 @@
 package xebia.ismail.e_learning.favorites;
 
-/**
- * Created by X on 12/28/2016.
- */
+
 
 public class ContactModel {
     private String name;

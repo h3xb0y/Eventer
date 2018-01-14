@@ -25,9 +25,7 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.favorites.DBHelper;
 
 
-/**
- * Created by Sendy on 05-Jul-16.
- */
+
 public class aadapter extends RecyclerView.Adapter<aadapter.MyViewHolder>
 {
     private Context mContext;

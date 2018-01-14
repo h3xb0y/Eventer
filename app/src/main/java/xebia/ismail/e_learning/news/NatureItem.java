@@ -1,8 +1,6 @@
 package xebia.ismail.e_learning.news;
 
-/**
- * Created by Exoguru on 23/01/2015.
- */
+
 public class NatureItem {
     public String mName;
     public String mDate;

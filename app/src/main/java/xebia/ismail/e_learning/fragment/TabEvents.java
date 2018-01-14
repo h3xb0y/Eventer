@@ -33,9 +33,7 @@ import xebia.ismail.e_learning.recycler.Itemlist;
 import xebia.ismail.e_learning.recycler.RecyclerItem;
 import xebia.ismail.e_learning.recycler.aadapter;
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class TabEvents extends Fragment {
 
     private static List<RecyclerItem> listItems;

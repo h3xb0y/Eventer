@@ -1,8 +1,5 @@
 package xebia.ismail.e_learning.fragment;
 
-/**
- * Created by test on 12.08.2017.
- */
 
 public class Points {
     private String name;
