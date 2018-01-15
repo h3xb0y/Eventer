@@ -20,7 +20,7 @@ import java.util.Calendar;
 import java.util.List;
 
 import xebia.ismail.e_learning.FullInfoActivity;
-import xebia.ismail.e_learning.Main2Activity;
+import xebia.ismail.e_learning.CompanyActivity;
 import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.favorites.DBHelper;
 
@@ -79,7 +79,7 @@ public class aadapter extends RecyclerView.Adapter<aadapter.MyViewHolder>
         final String Time = item.getTime();
         final String Price = item.getPrice();
 
-        final int img = Main2Activity.Info.num;
+        final int img = CompanyActivity.Info.num;
 
 
         holder.itemView.setOnClickListener (new View.OnClickListener() {

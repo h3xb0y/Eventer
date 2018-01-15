@@ -47,7 +47,7 @@ public class VolumeFragment extends Fragment{
         public Fragment getItem(int i) {
             switch (i) {
                 case 0:
-                    return new TabGeometry();
+                    return new TabMap();
                 case 1:
                     return new WhereToGo();
                             }

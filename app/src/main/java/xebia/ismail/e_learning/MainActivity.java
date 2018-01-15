@@ -23,9 +23,8 @@ import android.view.animation.Transformation;
 import android.widget.LinearLayout;
 
 import xebia.ismail.e_learning.IntroVideo.VideoActivity;
-import xebia.ismail.e_learning.IntroVideo.WelcomeActivity;
 import xebia.ismail.e_learning.fragment.Favorites;
-import xebia.ismail.e_learning.fragment.HomeFragment;
+import xebia.ismail.e_learning.fragment.HelperFragment;
 import xebia.ismail.e_learning.fragment.VolumeFragment;
 
 
@@ -127,7 +126,7 @@ public class MainActivity extends AppCompatActivity
             case R.id.nav_2:
                 mPrevSelectedId = itemId;
                 setTitle(R.string.nav_reward);
-                navFragment = new HomeFragment();
+                navFragment = new HelperFragment();
                 break;
             case R.id.nav_3:
                 mPrevSelectedId = itemId;
@@ -206,10 +205,6 @@ public class MainActivity extends AppCompatActivity
     protected void onResume() {
         super.onResume();
 
-        if (prefs.getBoolean("firstrun", true)) {
-            startActivity(new Intent(this, WelcomeActivity.class));
-            prefs.edit().putBoolean("firstrun", false).commit();
-        }
     }
     @Override
     public void onBackPressed() {

@@ -30,17 +30,17 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 import xebia.ismail.e_learning.news.CardAdapter;
-import xebia.ismail.e_learning.news.NatureItem;
+import xebia.ismail.e_learning.news.NewsItem;
 
 public class WhereToGo extends Fragment {
 
     private RecyclerView recyclerView;
 
     public String url = "https://raw.githubusercontent.com/h3xboy/Eventer/master/json/events_new.json";
-    NatureItem contact;
+    NewsItem contact;
     private CardAdapter adapter;
     private Date date1,date2;
-    public static ArrayList<NatureItem> itemlist;
+    public static ArrayList<NewsItem> itemlist;
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
@@ -120,7 +120,7 @@ public class WhereToGo extends Fragment {
                             e.printStackTrace();
                         }
                         if ((date2.getTime() >=  date1.getTime())){
-                    contact = new NatureItem();
+                    contact = new NewsItem();
                     contact.setName(object1.getString("EventName"));
                     contact.setDate(object1.getString("Date"));
                     contact.setThumbnail("http://eventer.s-host.net/app/"+i+".jpg");
@@ -133,8 +133,8 @@ public class WhereToGo extends Fragment {
                         timer++;}}
                 }
 
-                Collections.sort(itemlist, new Comparator<NatureItem>() {
-                    public int compare(NatureItem o1, NatureItem o2) {
+                Collections.sort(itemlist, new Comparator<NewsItem>() {
+                    public int compare(NewsItem o1, NewsItem o2) {
                         if (o1.getDate() == null || o2.getDate() == null)
                             return 0;
                         return o1.getDate().compareTo(o2.getDate());

@@ -24,14 +24,14 @@ public class Album {
     public void setName(String name) {
         this.name = name;
     }
-
-    public String getNumOfSongs() {
-        return numOfSongs;
-    }
-
-    public void setNumOfSongs(String numOfSongs) {
-        this.numOfSongs = numOfSongs;
-    }
+//
+//    public String getNumOfSongs() {
+//        return numOfSongs;
+//    }
+//
+//    public void setNumOfSongs(String numOfSongs) {
+//        this.numOfSongs = numOfSongs;
+//    }
 
     public int getThumbnail() {
         return thumbnail;

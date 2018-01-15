@@ -5,7 +5,7 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:background="@color/cast_expanded_controller_ad_container_white_stripe_color"
-    tools:context="xebia.ismail.e_learning.Main2Activity">
+    tools:context="xebia.ismail.e_learning.CompanyActivity">
 
 
                 <LinearLayout

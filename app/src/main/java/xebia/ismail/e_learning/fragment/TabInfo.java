@@ -1,14 +1,12 @@
 package xebia.ismail.e_learning.fragment;
 
 import android.app.ProgressDialog;
-import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,14 +20,12 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-import xebia.ismail.e_learning.Main2Activity;
 import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.recycler.Itemlist;
 import xebia.ismail.e_learning.recycler.RecyclerItem;

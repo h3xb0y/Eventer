@@ -19,7 +19,7 @@ import xebia.ismail.e_learning.fragment.TabEvents;
 import xebia.ismail.e_learning.fragment.TabInfo;
 import xebia.ismail.e_learning.recycler.aadapter;
 
-public class Main2Activity extends AppCompatActivity {
+public class CompanyActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

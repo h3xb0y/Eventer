@@ -33,18 +33,18 @@ import xebia.ismail.e_learning.favorites.DBHelper;
 public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
 
 
-    List<NatureItem> mItems;
+    List<NewsItem> mItems;
     private Context mContext;
     DBHelper db ;
 
 
 
-    public class ViewHolder extends RecyclerView.ViewHolder{
+     class ViewHolder extends RecyclerView.ViewHolder{
 
-        public ImageView imgThumbnail;
-        public TextView tvNature;
-        public TextView tvDesNature,tvDate;
-        public MaterialFavoriteButton materialFavoriteButtonNice;
+        private ImageView imgThumbnail;
+        private TextView tvNature;
+        private TextView tvDesNature,tvDate;
+        private MaterialFavoriteButton materialFavoriteButtonNice;
 
 
         public ViewHolder(View itemView) {
@@ -57,7 +57,7 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
         }
     }
 
-    public CardAdapter(ArrayList<NatureItem> itemList, Context mContext) {
+    public CardAdapter(ArrayList<NewsItem> itemList, Context mContext) {
         this.mItems = itemList;
         this.mContext = mContext ;
 
@@ -74,7 +74,7 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
 
     @Override
     public void onBindViewHolder(final ViewHolder viewHolder,final int i) {
-        final NatureItem nature = mItems.get(i);
+        final NewsItem nature = mItems.get(i);
         String s=nature.getDescr();
         if(nature.getDescr().length()>40)  s = nature.getDescr().substring(0,40);
         viewHolder.tvNature.setText(nature.getName());

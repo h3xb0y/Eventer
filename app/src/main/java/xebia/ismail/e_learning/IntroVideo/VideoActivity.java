@@ -28,7 +28,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.fragment.Points;
-import xebia.ismail.e_learning.fragment.TabGeometry;
+import xebia.ismail.e_learning.fragment.TabMap;
 
 public class VideoActivity extends AppCompatActivity {
     private TextView tvSignUp;
@@ -138,7 +138,7 @@ public class VideoActivity extends AppCompatActivity {
                 }
 
 
-                TabGeometry.itemlist = itemlistPoints;
+                TabMap.itemlist = itemlistPoints;
 
             } catch (JSONException e) {
                 e.printStackTrace();

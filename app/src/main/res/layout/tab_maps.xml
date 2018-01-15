@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#FFF"
-    tools:context="xebia.ismail.e_learning.fragment.HomeFragment">
+    tools:context="xebia.ismail.e_learning.fragment.HelperFragment">
     <include layout="@layout/toolbar2" />
 
 

@@ -49,14 +49,13 @@
             android:label="@string/title_activity_kill_yourself"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Main2Activity"
+            android:name=".CompanyActivity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".FullInfoActivity"
             android:label="@string/title_activity_full_info"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".IntroVideo.WelcomeActivity" />
         <activity android:name=".fragment.Helper" />
         <activity android:name=".IntroVideo.VideoActivity"></activity>
     </application>

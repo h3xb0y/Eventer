@@ -23,12 +23,12 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.util.ArrayList;
 
-import xebia.ismail.e_learning.Main2Activity;
+import xebia.ismail.e_learning.CompanyActivity;
 import xebia.ismail.e_learning.R;
 
 
 
-public class TabGeometry extends Fragment implements OnMapReadyCallback  {
+public class TabMap extends Fragment implements OnMapReadyCallback  {
 
     public static ArrayList<Points> itemlist;
 
@@ -80,17 +80,17 @@ public class TabGeometry extends Fragment implements OnMapReadyCallback  {
         googleMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
-                Intent intent = new Intent(getActivity(), Main2Activity.class);
-                Main2Activity.Info.name = marker.getTitle();
-                Main2Activity.Info.id = marker.getId();
-                Main2Activity.Info.info = marker.getSnippet();
+                Intent intent = new Intent(getActivity(), CompanyActivity.class);
+                CompanyActivity.Info.name = marker.getTitle();
+                CompanyActivity.Info.id = marker.getId();
+                CompanyActivity.Info.info = marker.getSnippet();
                 TabInfo.name = marker.getTitle();
                 TabInfo.id = marker.getId();
                 TabInfo.info = marker.getSnippet();
                 for (int i = 0;i<24;i++ ){
-                    if (marker.getId().equals("m"+i)){ Main2Activity.Info.num=i;TabInfo.num=i;TabEvents.num=i;}
+                    if (marker.getId().equals("m"+i)){ CompanyActivity.Info.num=i;TabInfo.num=i;TabEvents.num=i;}
                 }
-                TabGeometry.this.startActivity(intent);
+                TabMap.this.startActivity(intent);
 
 
             }

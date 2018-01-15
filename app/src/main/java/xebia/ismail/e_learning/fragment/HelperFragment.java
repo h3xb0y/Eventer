@@ -15,7 +15,7 @@ import xebia.ismail.e_learning.helper.FragmentHelper.GridWithTilesAdapter;
 import xebia.ismail.e_learning.helper.FragmentHelper.GridWithTilesData;
 
 
-public class HomeFragment extends Fragment {
+public class HelperFragment extends Fragment {
 
 
     private RecyclerView recyclerView;

@@ -1,17 +1,17 @@
 package xebia.ismail.e_learning.news;
 
 
-public class NatureItem {
-    public String mName;
-    public String mDate;
-    public String mThumbnail;
-    public int id;
-    public String mDes,mTime,mPrice;
+public class NewsItem {
+    private String mName;
+    private String mDate;
+    private String mThumbnail;
+    private int id;
+    private String mDes,mTime,mPrice;
 
-    public NatureItem() {}
+    public NewsItem() {}
 
 
-    public NatureItem(String mName, String mDate, String mThumbnail, int id,String mDes,String mTime, String mPrice)
+    public NewsItem(String mName, String mDate, String mThumbnail, int id, String mDes, String mTime, String mPrice)
     {
         this.mName = mName;
         this.mDate = mDate;

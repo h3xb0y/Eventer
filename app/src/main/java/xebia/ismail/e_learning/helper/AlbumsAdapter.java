@@ -52,9 +52,6 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
     public void onBindViewHolder(final MyViewHolder holder, int position) {
         final Album album = albumList.get(position);
         holder.title.setText(album.getName());
-        holder.count.setText(album.getNumOfSongs());
-
-        // loading album cover using Glide library
         Glide.with(mContext).load(album.getThumbnail()).into(holder.thumbnail);
 
         holder.thumbnail.setOnClickListener(new View.OnClickListener() {
@@ -66,13 +63,6 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
         });
     }
 
-    /**
-     * Showing popup menu when tapping on 3 dots
-     */
-
-    /**
-     * Click listener for popup menu items
-     */
 
     @Override
     public int getItemCount() {
