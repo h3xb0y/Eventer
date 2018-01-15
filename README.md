@@ -12,7 +12,7 @@ Android app for tracking events. Json parse.
 **Build status:** [![Build Status](https://travis-ci.org/h3xb0y/Eventer.svg?branch=master)](https://travis-ci.org/h3xb0y/Eventer)
 
 **Start contributing:** Make sure you read [SETUP.md](https://github.com/h3xb0y/Eventer/blob/master/SETUP.md) when you start working on this project. Basically: Fork this repository and contribute back using pull requests to the master branch.
-Easy starting points are also reviewing [pull requests](https://github.com/h3xb0y/Eventer/pulls) and working on [junior jobs](https://github.com/h3xb0y/Eventer/issues).
+Easy starting points are also reviewing [pull requests](https://github.com/h3xb0y/Eventer/pulls).
 
 **Latest version** [apk](https://github.com/h3xb0y/Eventer/blob/master/app.apk)
 
