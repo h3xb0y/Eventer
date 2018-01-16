@@ -26,7 +26,9 @@ import java.util.ArrayList;
 import xebia.ismail.e_learning.CompanyActivity;
 import xebia.ismail.e_learning.R;
 
-
+/**
+ * Custom card map custom markers :)
+ */
 
 public class TabMap extends Fragment implements OnMapReadyCallback  {
 

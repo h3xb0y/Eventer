@@ -33,7 +33,12 @@ import xebia.ismail.e_learning.recycler.Itemlist;
 import xebia.ismail.e_learning.recycler.RecyclerItem;
 import xebia.ismail.e_learning.recycler.aadapter;
 
-
+/**
+ * When you click on the marker, two tabs are created. this is tabevents and tabinfo.
+ * this tab is designed to output events in recyclerview
+ * tabevents is intended for output of information about the enterprise
+ * events database https://raw.githubusercontent.com/h3xboy/Eventer/master/json/events_new.json
+ */
 public class TabEvents extends Fragment {
 
     private static List<RecyclerItem> listItems;

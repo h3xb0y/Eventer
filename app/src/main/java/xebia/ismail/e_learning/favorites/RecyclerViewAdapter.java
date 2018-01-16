@@ -27,6 +27,9 @@ import xebia.ismail.e_learning.FullInfoActivity;
 import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.SetPicture;
 
+/**
+ * filling out the favorites tab from the database
+ */
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.RecyclerViewHolder> {
     ArrayList<ContactModel> arrayList = new ArrayList<ContactModel>();
     private Context mContext;

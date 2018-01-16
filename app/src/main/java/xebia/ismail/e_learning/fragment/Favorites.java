@@ -16,7 +16,9 @@ import xebia.ismail.e_learning.favorites.ContactModel;
 import xebia.ismail.e_learning.favorites.DBHelper;
 import xebia.ismail.e_learning.favorites.RecyclerViewAdapter;
 
-
+/**
+ * tab favorites and reading in recyclerview from the database
+ */
 public class Favorites extends Fragment {
 
     ArrayList<ContactModel> arrayList = new ArrayList<>();

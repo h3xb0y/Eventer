@@ -9,6 +9,9 @@ import android.os.Build;
 
 import java.util.ArrayList;
 import java.util.List;
+/**
+class designed to work with the database
+**/
 
 
 public class DBHelper extends SQLiteOpenHelper {

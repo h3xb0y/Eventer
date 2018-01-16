@@ -30,6 +30,9 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.fragment.Points;
 import xebia.ismail.e_learning.fragment.TabMap;
 
+/**
+ * the main window at the entrance, in which there is a button "go to the site" and "no thanks"
+ */
 public class VideoActivity extends AppCompatActivity {
     private TextView tvSignUp;
     private Button btnSignIn;

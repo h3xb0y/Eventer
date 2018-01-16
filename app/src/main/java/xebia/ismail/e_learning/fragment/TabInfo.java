@@ -30,7 +30,11 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.recycler.Itemlist;
 import xebia.ismail.e_learning.recycler.RecyclerItem;
 import xebia.ismail.e_learning.recycler.aadapter;
-
+/**
+ * When you click on the marker, two tabs are created. this is tabevents and tabinfo.
+ * tabevents is intended for output of information about the enterprise
+ * enterprise database https://raw.githubusercontent.com/h3xb0y/Eventer/master/json/description.json
+ */
 public class TabInfo extends Fragment {
 
 

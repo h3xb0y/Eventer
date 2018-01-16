@@ -33,6 +33,9 @@ import okhttp3.Response;
 import xebia.ismail.e_learning.news.CardAdapter;
 import xebia.ismail.e_learning.news.NewsItem;
 
+/**
+ * The tab displays information about upcoming events
+ */
 public class WhereToGo extends Fragment {
 
     private RecyclerView recyclerView;

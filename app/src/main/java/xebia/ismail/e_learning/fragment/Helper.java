@@ -24,7 +24,9 @@ import xebia.ismail.e_learning.R;
 import xebia.ismail.e_learning.helper.Album;
 import xebia.ismail.e_learning.helper.AlbumsAdapter;
 
-
+/**
+ * a tab with a garbage like calling a taxi or ordering a meal
+ */
 public class Helper extends AppCompatActivity {
     private RecyclerView recyclerView;
     private AlbumsAdapter adapter;
@@ -136,9 +138,7 @@ public class Helper extends AppCompatActivity {
 
     }
 
-    /**
-     * RecyclerView item decoration - give equal margin around grid item
-     */
+
     public class GridSpacingItemDecoration extends RecyclerView.ItemDecoration {
 
         private int spanCount;
@@ -174,9 +174,7 @@ public class Helper extends AppCompatActivity {
         }
     }
 
-    /**
-     * Converting dp to pixel
-     */
+
     private int dpToPx(int dp) {
         Resources r = getResources();
         return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, r.getDisplayMetrics()));
