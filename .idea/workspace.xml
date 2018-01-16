@@ -10,102 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c0bf48-9a39-476e-b218-74bc38e5d4b1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SETUP.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android-sqlite-asset-helper/android-sqlite-asset-helper.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android-sqlite-asset-helper/android-sqlite-asset-helper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android-sqlite-asset-helper/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-19-23-07-47-896.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-19-23-11-21-042.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-19-23-22-04-398.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-20-00-01-10-663.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-22-22-50-16-122.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-22-22-51-27-466.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-27-21-618.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-29-08-552.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-19-13-06-511.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-19-14-38-753.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-19-31-05-352.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-19-33-57-286.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-19-40-44-420.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-21-43-00-683.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-23-43-594.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-25-05-333.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-25-05-333.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-27-04-174.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-27-04-174.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-27-30-966.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-22-27-30-966.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/MaterialIntroActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/MessageButtonBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/MoveUpBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/SlideFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/SlideFragmentBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/adapter/SlidesAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/IViewTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/ViewTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/AlphaTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/DefaultAlphaTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/DefaultPositionTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/EnterDefaultTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/ExitDefaultTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/translations/NoTranslation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/wrappers/BackButtonTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/wrappers/NextButtonTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/wrappers/PageIndicatorTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/wrappers/SkipButtonTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/animations/wrappers/ViewPagerTranslationWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/IFinishListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/IPageScrolledListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/IPageSelectedListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/MessageButtonBehaviourOnPageSelected.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/ViewBehavioursOnPageChangeListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/clickListeners/PermissionNotGrantedClickListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/listeners/scrollListeners/ParallaxScrollListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/parallax/ParallaxFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/parallax/ParallaxFrameLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/parallax/ParallaxLinearLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/parallax/ParallaxRelativeLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/parallax/Parallaxable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/widgets/InkPageIndicator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/widgets/OverScrollViewPager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/agency/tango/materialintroscreen/widgets/SwipeableViewPager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/java/android/support/v4/view/CustomViewPager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/anim/cycle_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/anim/fade_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/anim/fade_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/anim/shake_it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable-v21/button_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable/button_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable/ic_finish.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable/ic_next.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable/ic_previous.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/drawable/ic_skip.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/layout-land/fragment_slide.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/layout/activity_material_intro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/layout/empty_fragment_slide.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/layout/fragment_slide.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/ids.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/material-intro-screen/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-13-48-244.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-13-48-244.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-14-11-288.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-14-11-288.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-15-24-565.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-15-24-565.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-15-34-532.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-15-34-532.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-16-20-929.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-16-19-16-20-929.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Eventer-clone.iml" afterPath="$PROJECT_DIR$/Eventer-clone.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
     <ignored path="UX-UI-Navigation-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -141,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+              <caret line="51" column="48" lean-forward="false" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -1846,6 +1766,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -1859,21 +1780,10 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Eventer-clone" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2008,7 +1918,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516123006355" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516124592515" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2056,7 +1966,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516123006355" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516124592515" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2218,7 +2128,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516123006357" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516124592518" />
       </method>
     </configuration>
     <list size="1">
@@ -2369,7 +2279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516102472660</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2k18 update">
+      <created>1516123035984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1516123035984</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2392,7 +2309,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5121029" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279743" sideWeight="0.5121029" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.49092284" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -2447,11 +2364,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/market.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2569,7 +2481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2604,7 +2515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2640,7 +2550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2648,7 +2557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2656,20 +2564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
-          <folding>
-            <element signature="e#2290#2321#0" expanded="true" />
-            <element signature="e#2339#2371#0" expanded="true" />
-            <element signature="e#3394#3547#0" expanded="true" />
-            <element signature="e#3546#3547#0" expanded="true" />
-            <element signature="e#4223#4224#0" expanded="true" />
-            <element signature="e#4543#4560#0" expanded="true" />
-            <element signature="e#4734#4753#0" expanded="true" />
-            <element signature="e#4927#4943#0" expanded="true" />
-            <element signature="e#6147#6412#0" expanded="true" />
-            <element signature="e#6411#6412#0" expanded="true" />
-            <element signature="e#7096#7229#0" expanded="true" />
-            <element signature="e#7228#7229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2677,7 +2571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2685,9 +2578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="66" column="25" lean-forward="false" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-          <folding>
-            <element signature="e#2231#2276#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2695,7 +2585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="33" column="95" lean-forward="false" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2703,7 +2592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2711,7 +2599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2719,7 +2606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="36" column="53" lean-forward="false" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2727,7 +2613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2739,10 +2624,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+          <caret line="51" column="48" lean-forward="false" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
           <folding />
         </state>
       </provider>
