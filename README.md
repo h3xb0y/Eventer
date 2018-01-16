@@ -1,5 +1,4 @@
-# Eventer!
-Android app for tracking events. Json parse.
+![alt text](https://github.com/h3xb0y/Eventer/blob/master/image/main2.png "main.png")
 
 [![](https://github.com/h3xb0y/Eventer/blob/master/image/download-button-android-new.png)](https://github.com/h3xb0y/Eventer/blob/master/app.apk)
 
