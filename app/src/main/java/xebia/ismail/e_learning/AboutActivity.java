@@ -57,12 +57,10 @@ public class AboutActivity extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
             View v = inflater.inflate(R.layout.fragment_about, container, false);
 
-
-            //View changelogView = v.findViewById(R.id.changelogView);
             View developersView = v.findViewById(R.id.developersView);
             View licensesView = v.findViewById(R.id.licensesView);
-            View vkontakte = v.findViewById(R.id.vkontakte);
             View site = v.findViewById(R.id.siteview);
+            View design = v.findViewById(R.id.design);
 
 
             String packageName = getActivity().getPackageName();
@@ -100,6 +98,16 @@ public class AboutActivity extends AppCompatActivity {
             };
             site.setOnClickListener(siteclick);
 
+            View.OnClickListener designclick = new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Uri address = Uri.parse("https://github.com/ismailxebia");
+                    Intent openlink = new Intent(Intent.ACTION_VIEW, address);
+                    startActivity(openlink);
+
+                }
+            };
+            design.setOnClickListener(designclick);
             SharedPreferences prefs = getContext().getSharedPreferences(packageName + "_preferences", MODE_PRIVATE);
             return v;
         }

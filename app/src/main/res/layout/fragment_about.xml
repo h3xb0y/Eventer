@@ -40,7 +40,7 @@
                     android:paddingRight="32dp"
                     android:paddingLeft="22dp">
 
-                    <de.hdodenhof.circleimageview.CircleImageView
+                    <ImageView
                         android:id="@+id/circleImageView"
                         android:layout_width="48dp"
                         android:layout_height="48dp"
@@ -213,6 +213,37 @@
                         android:textColor="#000" />
 
                 </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/design"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:minHeight="48dp"
+                    android:orientation="horizontal"
+                    android:paddingLeft="32dp"
+                    android:paddingRight="32dp">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:src="@drawable/design" />
+
+                    <com.pixplicity.fontview.FontAppCompatTextView
+                        android:id="@+id/designtext"
+                        style="@style/FontTextViewStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="32dp"
+                        android:layout_marginStart="32dp"
+                        android:paddingBottom="8dp"
+                        android:paddingTop="8dp"
+                        android:text="Дизайн заимствован у @ismailxebia"
+                        android:textColor="#000" />
+
+                </LinearLayout>
+
 
 
             </LinearLayout>

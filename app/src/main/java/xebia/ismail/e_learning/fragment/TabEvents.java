@@ -150,7 +150,6 @@ public class TabEvents extends Fragment {
                 }
                 ImageView image = (ImageView) getView().findViewById(R.id.imageView5);
 
-                if (itemlist.size() == 0)  image.setVisibility(View.VISIBLE);
 
 
 
@@ -158,6 +157,9 @@ public class TabEvents extends Fragment {
 
                 adapter =  new aadapter(itemlist, getActivity());
                 recyclerView.setAdapter(adapter);
+                if (itemlist.size() == 0)  image.setVisibility(View.VISIBLE);
+                else         image .setVisibility(View.INVISIBLE);
+
 
             } catch (JSONException e)
             {

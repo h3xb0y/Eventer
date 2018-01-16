@@ -12,6 +12,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -144,12 +145,15 @@ public class WhereToGo extends Fragment {
 
                 adapter = new CardAdapter(itemlist, getActivity());
                 recyclerView.setAdapter(adapter);
+                ImageView image = (ImageView) getView().findViewById(R.id.imageView5);
+
+                if (itemlist.size() == 0)  image.setVisibility(View.VISIBLE);
+                else         image .setVisibility(View.INVISIBLE);
 
             } catch (JSONException e) {
                 e.printStackTrace();
             }
 
-//           adapter.notifyDataSetChanged();
         }
 
     }
