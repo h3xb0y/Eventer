@@ -14,7 +14,7 @@ The project consists of several parts,
       "type":"dk" //type of company, this variable is used to define a marker
 },
 ```
-2. Parsin [json](https://github.com/h3xb0y/Eventer/blob/master/json/description.json) file with enterprise descriptions.
+2. Parsing [json](https://github.com/h3xb0y/Eventer/blob/master/json/description.json) file with enterprise descriptions.
 ```
 {
       "description":"Городской культурно-досуговый центр “Мир” → ул.Карла Маркса, 61.",
@@ -22,7 +22,7 @@ The project consists of several parts,
       "num":"6-04-42"
 },
 ```
-2. Parsin [json](https://github.com/h3xb0y/Eventer/blob/master/json/events_new.json) file with with event descriptions.
+3. Parsing [json](https://github.com/h3xb0y/Eventer/blob/master/json/events_new.json) file with with event descriptions.
 ```
        {
             "EventName":"ПРОСНИСЬ И ПОЙ!",
