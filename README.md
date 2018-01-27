@@ -1,7 +1,8 @@
 ![alt text](https://github.com/h3xb0y/Eventer/blob/master/image/maintransp.png "main.png")
 ## Eventer!
 
-**Build status:** [![Build Status](https://travis-ci.org/h3xb0y/Eventer.svg?branch=master)](https://travis-ci.org/h3xb0y/Eventer)
+**Build status:** [![Build Status](https://travis-ci.org/h3xb0y/Eventer.svg?branch=master)](https://travis-ci.org/h3xb0y/Eventer)</br>
+**Code style:** [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0fcb7955f9be45db8d4b3e200f1f3760)](https://www.codacy.com/app/qommentator/Eventer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=h3xb0y/Eventer&amp;utm_campaign=Badge_Grade)
 
 The project consists of several parts,
 1. Parsing [json](https://github.com/h3xb0y/Eventer/blob/master/json/points.json) file with businesses and a mark on the map
